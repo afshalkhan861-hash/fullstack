@@ -1,0 +1,9 @@
+.footer{background:#f0f0f0;padding:60px 0 30px;margin-top:80px}
+.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:40px;padding-bottom:40px;border-bottom:1px solid #ddd}
+.footer-logo{font-size:26px;font-weight:900;margin-bottom:16px}
+.footer p{color:rgba(0,0,0,0.6);font-size:14px;line-height:1.6}
+.footer h3{font-size:15px;letter-spacing:2px;margin-bottom:16px}
+.footer li{margin-bottom:12px}
+.footer li a{color:rgba(0,0,0,0.6);font-size:14px}
+.footer-bottom{padding-top:24px;text-align:center}
+@media(max-width:768px){.footer-grid{grid-template-columns:1fr 1fr}}

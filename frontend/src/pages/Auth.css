@@ -1,0 +1,8 @@
+.auth-page{min-height:70vh;display:flex;align-items:center;justify-content:center;padding:40px 20px}
+.auth-box{max-width:450px;width:100%;padding:40px;border:1px solid #eee;border-radius:20px}
+.auth-box h1{font-size:32px;margin-bottom:24px;font-weight:900}
+.fg{margin-bottom:20px}
+.fg label{display:block;font-weight:500;margin-bottom:8px;font-size:14px}
+.fg input{width:100%;padding:14px 16px;border:1px solid #eee;border-radius:12px;font-size:14px}
+.err{color:#ff3333;font-size:12px;margin-top:4px;display:block}
+.auth-btn{width:100%;padding:16px;background:#000;color:#fff;border-radius:62px;font-size:16px;font-weight:500}
