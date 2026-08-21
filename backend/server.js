@@ -17,3 +17,4 @@ app.use('/api/cart', cartRoutes);
 app.get('/', (req, res) => res.json({ message: 'SHOP.CO API running' }));
 
 app.listen(PORT, () => console.log('Server running on port ' + PORT));
+module.exports = app;
